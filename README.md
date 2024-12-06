@@ -1,2 +1,2 @@
 # app-dev
-My crush is my girlfriend named "Chrisia Flores"
+I'm from BSIT 3.1B

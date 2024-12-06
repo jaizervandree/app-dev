@@ -1,2 +1,2 @@
 # app-dev
-My dream is to become a professional IT and a multi business owner.
+Our title proposal is Analysis of technlogy gaps in municipal services and proposed digital solutions, Design of an online citizen feedback platform for local governments, lastly is a fesiability study on the implementation of E-government tools in small municipalities

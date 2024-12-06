@@ -1,2 +1,2 @@
 # app-dev
-My Favorite game is Grand Theaf Auto V
+My Favorite subject is MATHEMATICS
